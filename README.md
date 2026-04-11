@@ -23,9 +23,9 @@
       <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="50"/></a> &nbsp;
     <a href="https://www.linkedin.com/in/moayad-al-madhoun-1ab250333/">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
-    <!-- <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
-      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> -->
     <a href="">
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> -->
+    <a href="https://wa.me/message/SRY2KT76EA2AH1">
       <img src="https://images.seeklogo.com/logo-png/49/2/twitter-x-logo-png_seeklogo-492396.png" height="50"/></a> &nbsp;
     <!-- <a href="https://youtube.com/@A-Hemeda">
       <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50"/></a> &nbsp; -->
@@ -40,7 +40,7 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,aspnet,wpf,sqlserver,react,html,css,bootstrap,tailwind,js,postman,git,github,visulstudio,xd,photoshop&perline=6" style="height:105px;"/> 
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,react,html,css,bootstrap,tailwind,js,postman,git,github,xd,photoshop&perline=6" style="height:105px;"/> 
   </p>
 
  
