@@ -4,7 +4,7 @@
 <h2 align="center">.NET Developer | ASP.NET CORE | Full Stack</h2>
 
 <div align="center">
-  <a href="https://react-portfolio-48a3c.web.app/"> <!-- Google Me -->
+  <a href="https://moayadmadhoun.vercel.app/"> <!-- Google Me -->
     
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=25E045&center=true&vCenter=true&width=500&height=70&pause=3000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
 </div>
@@ -40,7 +40,7 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,html,css,js,postman,swagger,git&perline=6" style="height:105px;"/> 
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,aspnet,wpf,sqlserver,react,html,css,bootstrap,tailwind,js,postman,git,github,visulstudio,xd,photoshop&perline=6" style="height:105px;"/> 
   </p>
 
  
